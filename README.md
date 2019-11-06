@@ -14,5 +14,5 @@ The script will create a png file for every frame with red border and will add r
 
 ### Usage
 Apply Blanking_Red.dctl to timeline node.  
-Export a nun frame sequential format.  
+Export a non frame sequential format.  
 Run the script, choose the source file and destination folder.
