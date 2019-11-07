@@ -1,4 +1,3 @@
-![](logo.png)
 
 # Find_red_borders
 `Quality Control script for Resolve users`
