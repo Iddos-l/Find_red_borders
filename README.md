@@ -1,3 +1,5 @@
+![GitHub Logo](/Users/iddosmac/core/github/Find_red_borders/Screen Shot 2019-11-07 at 12.43.36.png)
+
 # Find_red_borders
 `Quality Control script for Resolve users`
 
