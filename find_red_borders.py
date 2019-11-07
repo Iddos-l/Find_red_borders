@@ -55,13 +55,14 @@ outputFolder = filedialog.askdirectory(title='Choose output folder', initialdir=
 if not outputFolder:     # In case user select "Cancel"
     sys.exit(0)
 
+start_time = t.time()
 
+# start capturing stream
 cap = cv2.VideoCapture(inputFile)
 if not cap.isOpened():
     print('[-] Error:       Could not open file.')
     exit(-1)
 
-start_time = t.time()
 print('Reading File...')
 
 while(1):
